@@ -3,6 +3,9 @@ _(juste en dessous des badges sympatiques à placer)_
 
 [![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)  [![forthebadge](http://forthebadge.com/images/badges/powered-by-electricity.svg)](http://forthebadge.com)
 
+[![Statut du projet](https://img.shields.io/badge/Statut-En%20cours-green.svg)](https://votre-lien-vers-la-page-du-projet)
+
+
 Une petite description du projet
 
 ## Pour commencer
