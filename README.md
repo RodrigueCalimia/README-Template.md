@@ -4,7 +4,7 @@ _(juste en dessous des badges sympatiques à placer)_
 [![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)  [![forthebadge](http://forthebadge.com/images/badges/powered-by-electricity.svg)](http://forthebadge.com)
 
 [![Progress](https://img.shields.io/badge/Progress-50%25-blue.svg)](https://votre-lien-vers-la-page-du-projet)
-[![Progress](https://img.shields.io/badge/Progress-70%25-blue.svg)](https://votre-lien-vers-la-page-du-projet)
+[![Progression](https://img.shields.io/badge/Progress-70%25-blue.svg)](https://votre-lien-vers-la-page-du-projet)
 
 
 
